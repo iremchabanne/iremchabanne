@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Irem CHABANNE</h1>
+<h1 align="center">Hi 👋, my name is Irem CHABANNE</h1>
 - 🔭 I’m currently working on [Authentic-Trail](https://github.com/iremchabanne/Authentic-Trail)
 
 - 🌱 I’m currently learning **Typescript, React, Express**
