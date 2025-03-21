@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, my name is Irem CHABANNE</h1>
 - 🔭 I’m currently working on [Authentic-Trail](https://github.com/iremchabanne/Authentic-Trail)
 
-- 🌱 I’m currently learning **Typescript, React, Express**
-
 - 👯 I’m collaborating on [Origins-Digital](https://github.com/WildCodeSchool-2024-02/js-valence-p3-origins-digital)
 
 - 📫 How to reach me **irem-chabanne@outlook.com**
